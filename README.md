@@ -1,1 +1,1 @@
-# TimeLapse-using-Opencv
+# Time-Lapse-using-open-cv
